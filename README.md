@@ -81,6 +81,7 @@ We are looking for:
 - engineering hygiene
 - AI readiness of the final output
 - reusability of the approach
+- use of AI agent driven development
 - clarity of handover and documentation
 
 ## Submission
